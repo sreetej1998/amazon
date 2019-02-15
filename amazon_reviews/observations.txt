@@ -1,0 +1,19 @@
+TFIDF
+ Observations
+1.Traning and test accuracies are almost similar so there is no problem of overfitting or underfitting.  
+2.optimal k is 69 from 70 the curve will rise.  
+3.there are more false negitives than false positives the model is not as good in classifying negitive class.
+
+BOG
+Observations
+1.Traning and test accuracies are almost similar so there is no problem of overfitting or underfitting.
+2.optimal k is 27 from 27 the curve is rising.  
+3.there ae more true negitives than true positives the model is not as good as classifying positive class.
+
+WORD2VEC
+Observations
+1.This model overall performance is poor.
+2.optimal k is 13.there are a lot of hills and valeys in this graph.  
+3.there are almost same numbers in confusion matrix very poor results this may be due to lack of vocabulary.
+ as the dataset is confined due to hardware restrictions. 
+
